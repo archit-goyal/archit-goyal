@@ -1,6 +1,6 @@
 # Archit Goyal
 
-I like building useful systems, learning in public, and using AI agents to turn fuzzy ideas into working software.
+Turning fuzzy ideas into working software.
 
 ## Open source
 
