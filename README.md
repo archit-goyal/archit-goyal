@@ -24,12 +24,12 @@
 <details>
 <summary>Show more open-source contributions</summary>
 
-| Project | Contribution |
-|---|---|
-| [Karakeep](https://github.com/karakeep-app/karakeep) | Documented browser extension development port behavior and clarified Chrome/Brave setup for local extension testing |
-| [Memos](https://github.com/usememos/memos) | Added an untagged shortcut filter example so users can create shortcuts for memos without tags |
-| [Mealie](https://github.com/mealie-recipes/mealie) | Clarified manage and organize permissions so group roles are easier to understand |
-| [Linkwarden](https://github.com/linkwarden/linkwarden) | Clarified S3-compatible MinIO/RustFS storage configuration for self-hosted deployments |
+| Project | Scale | What I Improved | Impact |
+|---|---:|---|---|
+| [Karakeep](https://github.com/karakeep-app/karakeep) | ![GitHub stars](https://img.shields.io/github/stars/karakeep-app/karakeep?style=flat-square&color=f0b72f) | Browser extension development port docs | Clarified Chrome/Brave setup for local extension testing |
+| [Memos](https://github.com/usememos/memos) | ![GitHub stars](https://img.shields.io/github/stars/usememos/memos?style=flat-square&color=f0b72f) | Untagged shortcut filter example | Helped users create shortcuts for memos without tags |
+| [Mealie](https://github.com/mealie-recipes/mealie) | ![GitHub stars](https://img.shields.io/github/stars/mealie-recipes/mealie?style=flat-square&color=f0b72f) | Manage and organize permissions docs | Made group roles easier to understand |
+| [Linkwarden](https://github.com/linkwarden/linkwarden) | ![GitHub stars](https://img.shields.io/github/stars/linkwarden/linkwarden?style=flat-square&color=f0b72f) | S3-compatible MinIO/RustFS storage docs | Clarified configuration for self-hosted deployments |
 
 </details>
 
