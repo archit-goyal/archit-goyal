@@ -14,22 +14,94 @@
 
 ## Open Source Impact
 
-| Project | Scale | What I Improved | Impact |
-|---|---:|---|---|
-| [Cap](https://github.com/CapSoftware/Cap) | ![GitHub stars](https://img.shields.io/github/stars/CapSoftware/Cap?style=flat-square&color=f0b72f) | Contributor setup docs and pnpm workspace configuration | Made fresh-clone onboarding smoother |
-| [Jan](https://github.com/janhq/jan) | ![GitHub stars](https://img.shields.io/github/stars/janhq/jan?style=flat-square&color=f0b72f) | Model quick-start flow | Helped new users reach their first chat faster |
-| [Ghostfolio](https://github.com/ghostfolio/ghostfolio) | ![GitHub stars](https://img.shields.io/github/stars/ghostfolio/ghostfolio?style=flat-square&color=f0b72f) | Angular OnPush migration on the FIRE page | Created a leaner page update path |
-| [Actual Budget](https://github.com/actualbudget/actual) | ![GitHub stars](https://img.shields.io/github/stars/actualbudget/actual?style=flat-square&color=f0b72f) | nYNAB export alternatives in migration docs | Gave users clearer options when moving budgets over |
+<table>
+  <colgroup>
+    <col width="14%">
+    <col width="12%">
+    <col width="40%">
+    <col width="34%">
+  </colgroup>
+  <thead>
+    <tr>
+      <th width="14%">Project</th>
+      <th width="12%" align="right">Scale</th>
+      <th width="40%">What I Improved</th>
+      <th width="34%">Impact</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td width="14%"><a href="https://github.com/CapSoftware/Cap">Cap</a></td>
+      <td width="12%" align="right"><img alt="GitHub stars" src="https://img.shields.io/github/stars/CapSoftware/Cap?style=flat-square&amp;color=f0b72f"></td>
+      <td width="40%">Contributor setup docs and pnpm workspace configuration</td>
+      <td width="34%">Made fresh-clone onboarding smoother</td>
+    </tr>
+    <tr>
+      <td width="14%"><a href="https://github.com/janhq/jan">Jan</a></td>
+      <td width="12%" align="right"><img alt="GitHub stars" src="https://img.shields.io/github/stars/janhq/jan?style=flat-square&amp;color=f0b72f"></td>
+      <td width="40%">Model quick-start flow</td>
+      <td width="34%">Helped new users reach their first chat faster</td>
+    </tr>
+    <tr>
+      <td width="14%"><a href="https://github.com/ghostfolio/ghostfolio">Ghostfolio</a></td>
+      <td width="12%" align="right"><img alt="GitHub stars" src="https://img.shields.io/github/stars/ghostfolio/ghostfolio?style=flat-square&amp;color=f0b72f"></td>
+      <td width="40%">Angular OnPush migration on the FIRE page</td>
+      <td width="34%">Created a leaner page update path</td>
+    </tr>
+    <tr>
+      <td width="14%"><a href="https://github.com/actualbudget/actual">Actual Budget</a></td>
+      <td width="12%" align="right"><img alt="GitHub stars" src="https://img.shields.io/github/stars/actualbudget/actual?style=flat-square&amp;color=f0b72f"></td>
+      <td width="40%">nYNAB export alternatives in migration docs</td>
+      <td width="34%">Gave users clearer options when moving budgets over</td>
+    </tr>
+  </tbody>
+</table>
 
 <details>
 <summary>Show more open-source contributions</summary>
 
-| Project | Scale | What I Improved | Impact |
-|---|---:|---|---|
-| [Karakeep](https://github.com/karakeep-app/karakeep) | ![GitHub stars](https://img.shields.io/github/stars/karakeep-app/karakeep?style=flat-square&color=f0b72f) | Browser extension development port docs | Clarified Chrome/Brave setup for local extension testing |
-| [Memos](https://github.com/usememos/memos) | ![GitHub stars](https://img.shields.io/github/stars/usememos/memos?style=flat-square&color=f0b72f) | Untagged shortcut filter example | Helped users create shortcuts for memos without tags |
-| [Mealie](https://github.com/mealie-recipes/mealie) | ![GitHub stars](https://img.shields.io/github/stars/mealie-recipes/mealie?style=flat-square&color=f0b72f) | Manage and organize permissions docs | Made group roles easier to understand |
-| [Linkwarden](https://github.com/linkwarden/linkwarden) | ![GitHub stars](https://img.shields.io/github/stars/linkwarden/linkwarden?style=flat-square&color=f0b72f) | S3-compatible MinIO/RustFS storage docs | Clarified configuration for self-hosted deployments |
+<table>
+  <colgroup>
+    <col width="14%">
+    <col width="12%">
+    <col width="40%">
+    <col width="34%">
+  </colgroup>
+  <thead>
+    <tr>
+      <th width="14%">Project</th>
+      <th width="12%" align="right">Scale</th>
+      <th width="40%">What I Improved</th>
+      <th width="34%">Impact</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td width="14%"><a href="https://github.com/karakeep-app/karakeep">Karakeep</a></td>
+      <td width="12%" align="right"><img alt="GitHub stars" src="https://img.shields.io/github/stars/karakeep-app/karakeep?style=flat-square&amp;color=f0b72f"></td>
+      <td width="40%">Browser extension development port docs</td>
+      <td width="34%">Clarified Chrome/Brave setup for local extension testing</td>
+    </tr>
+    <tr>
+      <td width="14%"><a href="https://github.com/usememos/memos">Memos</a></td>
+      <td width="12%" align="right"><img alt="GitHub stars" src="https://img.shields.io/github/stars/usememos/memos?style=flat-square&amp;color=f0b72f"></td>
+      <td width="40%">Untagged shortcut filter example</td>
+      <td width="34%">Helped users create shortcuts for memos without tags</td>
+    </tr>
+    <tr>
+      <td width="14%"><a href="https://github.com/mealie-recipes/mealie">Mealie</a></td>
+      <td width="12%" align="right"><img alt="GitHub stars" src="https://img.shields.io/github/stars/mealie-recipes/mealie?style=flat-square&amp;color=f0b72f"></td>
+      <td width="40%">Manage and organize permissions docs</td>
+      <td width="34%">Made group roles easier to understand</td>
+    </tr>
+    <tr>
+      <td width="14%"><a href="https://github.com/linkwarden/linkwarden">Linkwarden</a></td>
+      <td width="12%" align="right"><img alt="GitHub stars" src="https://img.shields.io/github/stars/linkwarden/linkwarden?style=flat-square&amp;color=f0b72f"></td>
+      <td width="40%">S3-compatible MinIO/RustFS storage docs</td>
+      <td width="34%">Clarified configuration for self-hosted deployments</td>
+    </tr>
+  </tbody>
+</table>
 
 </details>
 
