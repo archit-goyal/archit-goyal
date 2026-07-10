@@ -29,6 +29,7 @@
 | [Karakeep](https://github.com/karakeep-app/karakeep) | Documented browser extension development port behavior and clarified Chrome/Brave setup for local extension testing |
 | [Memos](https://github.com/usememos/memos) | Added an untagged shortcut filter example so users can create shortcuts for memos without tags |
 | [Mealie](https://github.com/mealie-recipes/mealie) | Clarified manage and organize permissions so group roles are easier to understand |
+| [Linkwarden](https://github.com/linkwarden/linkwarden) | Clarified S3-compatible MinIO/RustFS storage configuration for self-hosted deployments |
 
 </details>
 
