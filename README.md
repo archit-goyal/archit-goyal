@@ -54,6 +54,12 @@
       <td width="40%">nYNAB export alternatives in migration docs</td>
       <td width="34%">Gave users clearer options when moving budgets over</td>
     </tr>
+    <tr>
+      <td width="14%"><a href="https://github.com/super-productivity/super-productivity" target="_blank" rel="noopener noreferrer">Super Productivity</a></td>
+      <td width="12%" align="right"><img alt="GitHub stars" src="https://img.shields.io/github/stars/super-productivity/super-productivity?style=flat-square&amp;color=f0b72f"></td>
+      <td width="40%">Calendar option loading and empty states</td>
+      <td width="34%">Made CalDAV and Google Calendar setup clearer</td>
+    </tr>
   </tbody>
 </table>
 
