@@ -31,10 +31,10 @@
   </thead>
   <tbody>
     <tr>
-      <td width="14%"><a href="https://github.com/CapSoftware/Cap" target="_blank" rel="noopener noreferrer">Cap</a></td>
-      <td width="12%" align="right"><img alt="GitHub stars" src="https://img.shields.io/github/stars/CapSoftware/Cap?style=flat-square&amp;color=f0b72f"></td>
-      <td width="40%">Contributor setup docs and pnpm workspace configuration</td>
-      <td width="34%">Made fresh-clone onboarding smoother</td>
+      <td width="14%"><a href="https://github.com/bitwarden/clients" target="_blank" rel="noopener noreferrer">Bitwarden</a></td>
+      <td width="12%" align="right"><img alt="GitHub stars" src="https://img.shields.io/github/stars/bitwarden/clients?style=flat-square&amp;color=f0b72f"></td>
+      <td width="40%">Proton Pass custom-field import handling</td>
+      <td width="34%">Preserved custom fields when moving vault data into Bitwarden</td>
     </tr>
     <tr>
       <td width="14%"><a href="https://github.com/janhq/jan" target="_blank" rel="noopener noreferrer">Jan</a></td>
@@ -82,6 +82,12 @@
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td width="14%"><a href="https://github.com/CapSoftware/Cap" target="_blank" rel="noopener noreferrer">Cap</a></td>
+      <td width="12%" align="right"><img alt="GitHub stars" src="https://img.shields.io/github/stars/CapSoftware/Cap?style=flat-square&amp;color=f0b72f"></td>
+      <td width="40%">Contributor setup docs and pnpm workspace configuration</td>
+      <td width="34%">Made fresh-clone onboarding smoother</td>
+    </tr>
     <tr>
       <td width="14%"><a href="https://github.com/karakeep-app/karakeep" target="_blank" rel="noopener noreferrer">Karakeep</a></td>
       <td width="12%" align="right"><img alt="GitHub stars" src="https://img.shields.io/github/stars/karakeep-app/karakeep?style=flat-square&amp;color=f0b72f"></td>
