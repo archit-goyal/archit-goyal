@@ -43,16 +43,16 @@
       <td width="34%">Helped new users reach their first chat faster</td>
     </tr>
     <tr>
+      <td width="14%"><a href="https://github.com/filebrowser/filebrowser" target="_blank" rel="noopener noreferrer">File Browser</a></td>
+      <td width="12%" align="right"><img alt="GitHub stars" src="https://img.shields.io/github/stars/filebrowser/filebrowser?style=flat-square&amp;color=f0b72f"></td>
+      <td width="40%">Encoded-path upload conflict handling</td>
+      <td width="34%">Kept per-file Replace and Skip choices safe and predictable</td>
+    </tr>
+    <tr>
       <td width="14%"><a href="https://github.com/ghostfolio/ghostfolio" target="_blank" rel="noopener noreferrer">Ghostfolio</a></td>
       <td width="12%" align="right"><img alt="GitHub stars" src="https://img.shields.io/github/stars/ghostfolio/ghostfolio?style=flat-square&amp;color=f0b72f"></td>
       <td width="40%">Angular OnPush migration on the FIRE page</td>
       <td width="34%">Created a leaner page update path</td>
-    </tr>
-    <tr>
-      <td width="14%"><a href="https://github.com/actualbudget/actual" target="_blank" rel="noopener noreferrer">Actual Budget</a></td>
-      <td width="12%" align="right"><img alt="GitHub stars" src="https://img.shields.io/github/stars/actualbudget/actual?style=flat-square&amp;color=f0b72f"></td>
-      <td width="40%">nYNAB export alternatives in migration docs</td>
-      <td width="34%">Gave users clearer options when moving budgets over</td>
     </tr>
     <tr>
       <td width="14%"><a href="https://github.com/super-productivity/super-productivity" target="_blank" rel="noopener noreferrer">Super Productivity</a></td>
@@ -87,6 +87,12 @@
       <td width="12%" align="right"><img alt="GitHub stars" src="https://img.shields.io/github/stars/CapSoftware/Cap?style=flat-square&amp;color=f0b72f"></td>
       <td width="40%">Contributor setup docs and pnpm workspace configuration</td>
       <td width="34%">Made fresh-clone onboarding smoother</td>
+    </tr>
+    <tr>
+      <td width="14%"><a href="https://github.com/actualbudget/actual" target="_blank" rel="noopener noreferrer">Actual Budget</a></td>
+      <td width="12%" align="right"><img alt="GitHub stars" src="https://img.shields.io/github/stars/actualbudget/actual?style=flat-square&amp;color=f0b72f"></td>
+      <td width="40%">nYNAB export alternatives in migration docs</td>
+      <td width="34%">Gave users clearer options when moving budgets over</td>
     </tr>
     <tr>
       <td width="14%"><a href="https://github.com/karakeep-app/karakeep" target="_blank" rel="noopener noreferrer">Karakeep</a></td>
