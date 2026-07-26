@@ -118,6 +118,12 @@
       <td width="40%">S3-compatible MinIO/RustFS storage docs</td>
       <td width="34%">Clarified configuration for self-hosted deployments</td>
     </tr>
+    <tr>
+      <td width="14%"><a href="https://github.com/ActivityWatch/activitywatch" target="_blank" rel="noopener noreferrer">ActivityWatch</a></td>
+      <td width="12%" align="right"><img alt="GitHub stars" src="https://img.shields.io/github/stars/ActivityWatch/activitywatch?style=flat-square&amp;color=f0b72f"></td>
+      <td width="40%">AFK timeout configuration guidance</td>
+      <td width="34%">Made custom idle-time behavior easier to configure correctly</td>
+    </tr>
   </tbody>
 </table>
 
