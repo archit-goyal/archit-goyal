@@ -89,6 +89,12 @@
       <td width="34%">Made fresh-clone onboarding smoother</td>
     </tr>
     <tr>
+      <td width="14%"><a href="https://github.com/manaflow-ai/cmux" target="_blank" rel="noopener noreferrer">cmux</a></td>
+      <td width="12%" align="right"><img alt="GitHub stars" src="https://img.shields.io/github/stars/manaflow-ai/cmux?style=flat-square&amp;color=f0b72f"></td>
+      <td width="40%">Xcode preflight and GhosttyKit cache-lock setup errors</td>
+      <td width="34%">Made setup failures clearer and stale-lock cleanup safer</td>
+    </tr>
+    <tr>
       <td width="14%"><a href="https://github.com/actualbudget/actual" target="_blank" rel="noopener noreferrer">Actual Budget</a></td>
       <td width="12%" align="right"><img alt="GitHub stars" src="https://img.shields.io/github/stars/actualbudget/actual?style=flat-square&amp;color=f0b72f"></td>
       <td width="40%">nYNAB export alternatives in migration docs</td>
