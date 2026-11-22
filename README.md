@@ -136,6 +136,12 @@
       <td width="40%">Webtoon width override aspect-ratio fix</td>
       <td width="34%">Preserved page proportions while resizing the reader</td>
     </tr>
+    <tr>
+      <td width="14%"><a href="https://github.com/mifi/lossless-cut" target="_blank" rel="noopener noreferrer">LosslessCut</a></td>
+      <td width="12%" align="right"><img alt="GitHub stars" src="https://img.shields.io/github/stars/mifi/lossless-cut?style=flat-square&amp;color=f0b72f"></td>
+      <td width="40%">Cut time input in frame and seconds formats (co-authored with the maintainer)</td>
+      <td width="34%">Typed IN/OUT times now commit when shown as frames or seconds</td>
+    </tr>
   </tbody>
 </table>
 
